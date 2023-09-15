@@ -2,4 +2,8 @@ var edad=30;
 var nombre="Xiomy";
 nombre="Xiomara";
 
+const fruta="pera";
+
 console.log(nombre);
+
+console.log(fruta);
