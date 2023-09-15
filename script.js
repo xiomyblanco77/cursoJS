@@ -1,4 +1,4 @@
 var edad=30;
 var nombre="Xiomy";
 
-console.log();
+console.log(edad + nombre);
