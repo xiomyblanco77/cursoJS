@@ -6,4 +6,4 @@ const fruta="pera";
 
 console.log(nombre);
 
-console.log(fruta);
+alert(nombre);
